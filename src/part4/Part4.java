@@ -15,7 +15,10 @@ public class Part4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //Week01Lab
+        System.out.println("Week 01 Lab");
+        
     }
     
 }
