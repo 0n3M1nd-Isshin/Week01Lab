@@ -9,7 +9,7 @@ package part4;
  *
  * @author 823280
  */
-public class Part4 {
+public class Week01Lab {
 
     /**
      * @param args the command line arguments
